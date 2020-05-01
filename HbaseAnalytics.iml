@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/aopalliance-1.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/aopalliance-repackaged-2.5.0-b32.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/apacheds-i18n-2.0.0-M15.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/apacheds-kerberos-codec-2.0.0-M15.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/api-asn1-api-1.0.0-M20.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/api-util-1.0.0-M20.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/asm-3.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/avro-1.7.7.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-beanutils-core-1.8.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-cli-1.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-codec-1.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-collections-3.2.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-compress-1.4.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-configuration-1.6.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-crypto-1.0.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-daemon-1.0.13.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-digester-1.8.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-io-2.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-lang-2.6.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-lang3-3.6.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-math-2.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-math3-3.6.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-net-3.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-client-4.0.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-framework-4.0.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-recipes-4.0.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-test-2.7.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/disruptor-3.3.6.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/error_prone_annotations-2.3.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/gson-2.2.4.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/guava-11.0.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/guice-3.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/guice-servlet-3.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-annotations-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-auth-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-client-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-common-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-common-2.8.5-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-distcp-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-hdfs-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-hdfs-2.8.5-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-hdfs-client-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-app-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-common-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-core-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-hs-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-jobclient-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-shuffle-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-minicluster-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-api-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-client-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-common-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-applicationhistoryservice-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-common-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-nodemanager-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-resourcemanager-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-tests-2.8.5-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-web-proxy-2.8.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hamcrest-core-1.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-annotations-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-annotations-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-client-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-common-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-common-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-endpoint-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-examples-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-external-blockcache-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop2-compat-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop2-compat-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop-compat-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop-compat-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hbtop-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-http-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-it-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-it-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-mapreduce-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-mapreduce-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-metrics-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-metrics-api-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-procedure-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-protocol-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-protocol-shaded-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-replication-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-resource-bundle-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-rest-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-rsgroup-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-rsgroup-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-server-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-server-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shaded-miscellaneous-2.2.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shaded-netty-2.2.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shaded-protobuf-2.2.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shell-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-testing-util-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-thrift-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-zookeeper-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-zookeeper-2.2.3-tests.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hk2-api-2.5.0-b32.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hk2-locator-2.5.0-b32.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hk2-utils-2.5.0-b32.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/httpclient-4.5.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/httpcore-4.4.6.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-annotations-2.9.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-core-2.9.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-core-asl-1.9.13.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-databind-2.9.10.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-jaxrs-base-2.9.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-jaxrs-json-provider-2.9.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-mapper-asl-1.9.13.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-module-jaxb-annotations-2.9.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jamon-runtime-2.4.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javassist-3.20.0-GA.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.activation-1.2.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.annotation-api-1.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.el-3.0.1-b08.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.inject-2.5.0-b32.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.servlet.jsp-2.3.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.servlet.jsp-api-2.3.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.servlet-api-3.1.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.ws.rs-api-2.0.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/java-xmlbuilder-0.4.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jaxb-api-2.2.12.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jaxb-impl-2.2.3-1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jcip-annotations-1.0-1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jcodings-1.0.18.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-client-2.25.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-common-2.25.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-container-servlet-core-2.25.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-guava-2.25.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-media-jaxb-2.25.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-server-2.25.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jets3t-0.9.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jettison-1.3.8.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-6.1.26.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-http-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-io-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-jmx-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-security-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-server-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-servlet-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-sslengine-6.1.26.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-util-6.1.26.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-util-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-util-ajax-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-webapp-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-xml-9.3.27.v20190418.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/joni-2.1.11.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jsch-0.1.54.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/junit-4.12.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/leveldbjni-all-1.8.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/libthrift-0.12.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/metrics-core-3.2.6.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/netty-all-4.0.23.Final.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/nimbus-jose-jwt-4.41.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/okhttp-2.4.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/okio-1.4.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/osgi-resource-locator-1.0.1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/paranamer-2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/protobuf-java-2.5.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/snappy-java-1.0.5.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/spymemcached-2.12.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/validation-api-1.1.0.Final.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/xmlenc-0.52.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/xz-1.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/zookeeper-3.4.10.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/zkcli/jline-0.9.94.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/shaded-clients/hbase-shaded-client-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/shaded-clients/hbase-shaded-client-byo-hadoop-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/shaded-clients/hbase-shaded-mapreduce-2.2.3.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/ruby/jruby-complete-9.1.13.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/audience-annotations-0.5.0.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/commons-logging-1.2.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/findbugs-annotations-1.3.9-1.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/htrace-core4-4.2.0-incubating.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/log4j-1.2.17.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/slf4j-api-1.7.25.jar" />
+    <libelement value="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/slf4j-log4j12-1.7.25.jar" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/aopalliance-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-repackaged-2.5.0-b32.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/aopalliance-repackaged-2.5.0-b32.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apacheds-i18n-2.0.0-M15.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/apacheds-i18n-2.0.0-M15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apacheds-kerberos-codec-2.0.0-M15.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/apacheds-kerberos-codec-2.0.0-M15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="api-asn1-api-1.0.0-M20.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/api-asn1-api-1.0.0-M20.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="api-util-1.0.0-M20.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/api-util-1.0.0-M20.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-3.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/asm-3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avro-1.7.7.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/avro-1.7.7.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-core-1.8.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-beanutils-core-1.8.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-cli-1.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-cli-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-codec-1.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-collections-3.2.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress-1.4.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-compress-1.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-configuration-1.6.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-configuration-1.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-crypto-1.0.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-crypto-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-daemon-1.0.13.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-daemon-1.0.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-1.8.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-digester-1.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-io-2.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-lang-2.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.6.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-lang3-3.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math-2.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-math-2.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math3-3.6.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-math3-3.6.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-net-3.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/commons-net-3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-client-4.0.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-client-4.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-framework-4.0.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-framework-4.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-recipes-4.0.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-recipes-4.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curator-test-2.7.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/curator-test-2.7.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="disruptor-3.3.6.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/disruptor-3.3.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="error_prone_annotations-2.3.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/error_prone_annotations-2.3.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.2.4.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/gson-2.2.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-11.0.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/guava-11.0.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guice-3.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/guice-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guice-servlet-3.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/guice-servlet-3.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-annotations-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-annotations-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-auth-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-auth-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-client-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-client-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-common-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-common-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-common-2.8.5-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-common-2.8.5-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-distcp-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-distcp-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-hdfs-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-hdfs-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-hdfs-2.8.5-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-hdfs-2.8.5-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-hdfs-client-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-hdfs-client-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-app-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-app-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-common-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-common-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-core-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-core-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-hs-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-hs-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-jobclient-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-jobclient-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-mapreduce-client-shuffle-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-mapreduce-client-shuffle-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-minicluster-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-minicluster-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-api-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-api-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-client-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-client-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-common-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-common-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-applicationhistoryservice-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-applicationhistoryservice-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-common-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-common-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-nodemanager-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-nodemanager-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-resourcemanager-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-resourcemanager-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-tests-2.8.5-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-tests-2.8.5-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-yarn-server-web-proxy-2.8.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hadoop-yarn-server-web-proxy-2.8.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hamcrest-core-1.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-annotations-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-annotations-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-annotations-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-annotations-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-client-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-client-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-common-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-common-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-common-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-common-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-endpoint-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-endpoint-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-examples-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-examples-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-external-blockcache-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-external-blockcache-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-hadoop2-compat-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop2-compat-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-hadoop2-compat-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop2-compat-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-hadoop-compat-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop-compat-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-hadoop-compat-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hadoop-compat-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-hbtop-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-hbtop-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-http-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-http-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-it-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-it-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-it-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-it-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-mapreduce-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-mapreduce-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-mapreduce-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-mapreduce-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-metrics-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-metrics-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-metrics-api-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-metrics-api-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-procedure-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-procedure-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-protocol-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-protocol-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-protocol-shaded-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-protocol-shaded-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-replication-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-replication-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-resource-bundle-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-resource-bundle-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-rest-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-rest-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-rsgroup-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-rsgroup-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-rsgroup-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-rsgroup-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-server-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-server-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-server-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-server-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shaded-miscellaneous-2.2.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shaded-miscellaneous-2.2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shaded-netty-2.2.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shaded-netty-2.2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shaded-protobuf-2.2.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shaded-protobuf-2.2.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shell-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-shell-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-testing-util-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-testing-util-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-thrift-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-thrift-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-zookeeper-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-zookeeper-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-zookeeper-2.2.3-tests.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hbase-zookeeper-2.2.3-tests.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hk2-api-2.5.0-b32.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hk2-api-2.5.0-b32.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hk2-locator-2.5.0-b32.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hk2-locator-2.5.0-b32.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hk2-utils-2.5.0-b32.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/hk2-utils-2.5.0-b32.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/httpclient-4.5.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.6.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/httpcore-4.4.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-annotations-2.9.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-annotations-2.9.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-2.9.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-core-2.9.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-core-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-databind-2.9.10.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-databind-2.9.10.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-jaxrs-base-2.9.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-jaxrs-base-2.9.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-jaxrs-json-provider-2.9.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-jaxrs-json-provider-2.9.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-mapper-asl-1.9.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-module-jaxb-annotations-2.9.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jackson-module-jaxb-annotations-2.9.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jamon-runtime-2.4.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jamon-runtime-2.4.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist-3.20.0-GA.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javassist-3.20.0-GA.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.activation-1.2.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.activation-1.2.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.annotation-api-1.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.annotation-api-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.el-3.0.1-b08.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.el-3.0.1-b08.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.inject-2.5.0-b32.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.inject-2.5.0-b32.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet.jsp-2.3.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.servlet.jsp-2.3.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet.jsp-api-2.3.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.servlet.jsp-api-2.3.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet-api-3.1.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.servlet-api-3.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.ws.rs-api-2.0.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/javax.ws.rs-api-2.0.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-xmlbuilder-0.4.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/java-xmlbuilder-0.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api-2.2.12.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jaxb-api-2.2.12.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-impl-2.2.3-1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jaxb-impl-2.2.3-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcip-annotations-1.0-1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jcip-annotations-1.0-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcodings-1.0.18.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jcodings-1.0.18.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-client-2.25.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-client-2.25.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-common-2.25.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-common-2.25.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-container-servlet-core-2.25.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-container-servlet-core-2.25.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-guava-2.25.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-guava-2.25.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-media-jaxb-2.25.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-media-jaxb-2.25.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-server-2.25.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jersey-server-2.25.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jets3t-0.9.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jets3t-0.9.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jettison-1.3.8.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jettison-1.3.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-6.1.26.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-http-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-http-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-io-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-io-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-jmx-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-jmx-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-security-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-security-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-server-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-server-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-servlet-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-servlet-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-sslengine-6.1.26.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-sslengine-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-6.1.26.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-util-6.1.26.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-util-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-ajax-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-util-ajax-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-webapp-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-webapp-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-xml-9.3.27.v20190418.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jetty-xml-9.3.27.v20190418.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="joni-2.1.11.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/joni-2.1.11.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsch-0.1.54.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/jsch-0.1.54.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.12.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/junit-4.12.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leveldbjni-all-1.8.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/leveldbjni-all-1.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="libthrift-0.12.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/libthrift-0.12.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="metrics-core-3.2.6.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/metrics-core-3.2.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-all-4.0.23.Final.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/netty-all-4.0.23.Final.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="nimbus-jose-jwt-4.41.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/nimbus-jose-jwt-4.41.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="okhttp-2.4.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/okhttp-2.4.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="okio-1.4.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/okio-1.4.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="osgi-resource-locator-1.0.1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/osgi-resource-locator-1.0.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="paranamer-2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/paranamer-2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/protobuf-java-2.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="snappy-java-1.0.5.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/snappy-java-1.0.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spymemcached-2.12.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/spymemcached-2.12.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="validation-api-1.1.0.Final.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/validation-api-1.1.0.Final.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlenc-0.52.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/xmlenc-0.52.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xz-1.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/xz-1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="zookeeper-3.4.10.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/zookeeper-3.4.10.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jline-0.9.94.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/zkcli/jline-0.9.94.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shaded-client-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/shaded-clients/hbase-shaded-client-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shaded-client-byo-hadoop-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/shaded-clients/hbase-shaded-client-byo-hadoop-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hbase-shaded-mapreduce-2.2.3.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/shaded-clients/hbase-shaded-mapreduce-2.2.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jruby-complete-9.1.13.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/ruby/jruby-complete-9.1.13.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="audience-annotations-0.5.0.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/audience-annotations-0.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/commons-logging-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="findbugs-annotations-1.3.9-1.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/findbugs-annotations-1.3.9-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htrace-core4-4.2.0-incubating.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/htrace-core4-4.2.0-incubating.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/log4j-1.2.17.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.25.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/slf4j-api-1.7.25.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.7.25.jar">
+        <CLASSES>
+          <root url="file://E:/Users/djkon/Documents/SENG5709/hbase-2.2.3/lib/client-facing-thirdparty/slf4j-log4j12-1.7.25.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="client-facing-thirdparty" level="project" />
+    <orderEntry type="library" name="ruby" level="project" />
+    <orderEntry type="library" name="shaded-clients" level="project" />
+    <orderEntry type="library" name="zkcli" level="project" />
+  </component>
+</module>
