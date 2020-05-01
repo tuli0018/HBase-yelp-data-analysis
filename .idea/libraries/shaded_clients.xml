@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="shaded-clients">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/shaded-clients" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/shaded-clients" recursive="false" />
+  </library>
+</component>

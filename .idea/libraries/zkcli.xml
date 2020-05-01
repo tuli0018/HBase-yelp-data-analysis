@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="zkcli">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/zkcli" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/zkcli" recursive="false" />
+  </library>
+</component>

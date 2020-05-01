@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ruby">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/ruby" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/ruby" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="client-facing-thirdparty">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/client-facing-thirdparty" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../hbase-2.2.3/lib/client-facing-thirdparty" recursive="false" />
+  </library>
+</component>
