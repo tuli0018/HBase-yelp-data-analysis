@@ -4,6 +4,8 @@
 
 
 ## Script (for video)
+We have also made an explanation video for this project on youtube. You can find the URL above in the description of the project. 
+
 Hbase is difficult to perform analytics with standalone. We found that we needed to introduce an application layer to analyze code. 
 
 We transform our data from CSV data sources through PIG (through grunt). From this mechanism, we can bulk insert data.
